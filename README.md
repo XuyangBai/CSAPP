@@ -1,2 +1,2 @@
 # CSAPP
-&lt;Intro to Computer Systems> Lab
+(Intro to Computer Systems)[http://www.cs.cmu.edu/~./213/schedule.html] Lab
